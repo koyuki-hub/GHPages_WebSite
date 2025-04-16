@@ -13,6 +13,7 @@ permalink: /
 ## これまで行った国
 - ヨーロッパ
   - Pris フランス
+    ［imges:
   - Barcelona スペイン
   - Hamburg ドイツ
   - London イギリス
