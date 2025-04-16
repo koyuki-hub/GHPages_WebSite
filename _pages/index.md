@@ -1,13 +1,22 @@
 ---
-title: "ここにページのタイトル"
+title: "About Me"
 author: default
 permalink: /
 ---
-
+## Koyuki 
 
 こんばんは
+### 好きなこと
+ - 旅行
+ - カフェ巡り
 
-
+## これまで行った国
+- ヨーロッパ
+  - Pris フランス
+  - Barcelona スペイン
+  - Hamburg ドイツ
+  - London イギリス
+    - さらにネスト
 
 ---
 
