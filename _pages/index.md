@@ -13,11 +13,16 @@ permalink: /
 ## これまで行った国
 - ヨーロッパ
   - Pris フランス
-    ［imges:
+ ![image](/GHPages_WebSite/assets/images/paris.jpg)
   - Barcelona スペイン
+ ![image](/GHPages_WebSite/assets/images/spain.jpg)
   - Hamburg ドイツ
+ ![image](/GHPages_WebSite/assets/images/germany.jpg)
   - London イギリス
-    - さらにネスト
+ ![image](/GHPages_WebSite/assets/images/london.jpg)
+
+ - オーストラリア
+   -Melbourne 
 
 ---
 
